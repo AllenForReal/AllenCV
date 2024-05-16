@@ -13,11 +13,11 @@ profile:
     <p>South Boston, MA 02127</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
 
-Born in Februrary 28 1999 in Rochester NY. Allen was exposed to a wide variety of scientific topic at a young age, began his quest in physics in high school. Continued his journey for physics at University of Colorado Boulder in the Fall of 2017, where he really dived into condensed matter physics and obtained his degree in interdisplinary physics joined with computer science. Now Allen studies optical application design and engineering at Northeastern University, pursuing his Ph.D. degree in Mechanical Engineering.
+Born in February 28 1999 in Rochester NY. Allen was exposed to a wide variety of scientific topic at a young age, began his quest in physics in high school. Continued his journey for physics at University of Colorado Boulder in the Fall of 2017, where he really dived into condensed matter physics and obtained his degree in interdisplinary physics joined with computer science. Now Allen studies optical application design and engineering at Northeastern University, pursuing his Ph.D. degree in Mechanical Engineering.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
